@@ -1,11 +1,10 @@
 
 /* Your CSS Code here. */
-body{
+.holder{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
-
 
 #d1{
     height: 100px;
