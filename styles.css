@@ -1,2 +1,45 @@
 
 /* Your CSS Code here. */
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+#d1{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
+
+#d2{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+}
+
+#d3{
+    height: 100px;
+    width: 100px;
+    background-color: bisque;
+}
+
+#d4{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+}
+
+#d5{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
+
+#d6{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+}
